@@ -58,7 +58,7 @@ const MainComponent = () => {
         <div className="col p-0 mapContainer m-4 m-sm-0">
           <MapContainer
             center={
-              selectedCity ? selectedCity.position : { lat: 28.6, lng: 77.2 }
+              selectedCity ? selectedCity.position : { lat: 33.3, lng: 75.77 }
             }
             zoom={13}
             scrollWheelZoom={false}
