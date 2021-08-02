@@ -27,7 +27,7 @@ const MainComponent = () => {
       <div className="row">
         <h4 className="text-center mt-2 mb-sm-5 headerContainer">
           {" "}
-          Internship Task unMazer.io
+          Internship Task unMazer.ai
         </h4>
       </div>
       <div className="row mt-3">
